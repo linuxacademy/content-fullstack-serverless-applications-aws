@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Prometheon Music Manager</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    
+    <!-- Custom styles for this template -->
+    <link href="main.css" rel="stylesheet">
+    
+    <!-- JavaScript stuff for the sending of requests -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fetch/2.0.1/fetch.js"></script>
+    
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <form class="form-signin">
+        <h2 class="form-signin-heading">Prometheon Music Manager</h2>
+        <div id='error-message'></div>
+        <div id='success-message'></div>
+        <p>You can list the items without adding any values.</p>
+        <button id="listButton" class="btn btn-md btn-primary btn-block" type="submit">list</button>
+        <hr>
+        <p>Add the Artist and SongTitle values to get a specific item or delete a specific item.</p>
+        <label for="Artist" class="sr-only">Artist</label>
+        <input type="email" id="Artist" class="form-control" placeholder="Artist">
+        <label for="SongTitle" class="sr-only">SongTitle</label>
+        <input type="bottom" id="SongTitle" class="form-control" placeholder="SongTitle">
+        <button id="getButton" class="btn btn-md btn-primary btn-block" type="submit">get</button>
+        <button id="deleteButton" class="btn btn-md btn-primary btn-block" type="submit">delete</button>
+        <hr>
+        <p>Also add the values below in order to update an exisiting item or create a new item.</p>
+        <label for="AlbumTitle" class="sr-only">AlbumTitle</label>
+        <input type="email" id="AlbumTitle" class="form-control" placeholder="AlbumTitle">
+        <label for="CriticRating" class="sr-only">CriticRating</label>
+        <input type="CriticRating" id="CriticRating" class="form-control" placeholder="CriticRating">
+        <label for="Genre" class="sr-only">Genre</label>
+        <input type="email" id="Genre" class="form-control" placeholder="Genre">
+        <label for="Price" class="sr-only">Price</label>
+        <input type="bottom" id="Price" class="form-control" placeholder="Price">
+        <button id="updateButton" class="btn btn-md btn-primary btn-block" type="submit">update</button>
+        <button id="createButton" class="btn btn-md btn-primary btn-block" type="submit">create</button>
+        <br>
+        <div id='results-message'></div>
+      </form>
+    
+    </div> <!-- /container -->
+
+    <script src="formlogic.js"></script>
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+  </body>
+</html>
