@@ -1,0 +1,1602 @@
+[
+ {
+  "Artist": "Post Malone",
+  "SongTitle": "rockstar",
+  "AlbumTitle": "Morrow Centers",
+  "Genre": "Country",
+  "Price": "13.89",
+  "CriticRating": "9.9"
+ },
+ {
+  "Artist": "Lil Pump",
+  "SongTitle": "Gucci Gang",
+  "AlbumTitle": "Shepherd Ville",
+  "Genre": "RNB",
+  "Price": "6.89",
+  "CriticRating": "9.89"
+ },
+ {
+  "Artist": "Camila Cabello",
+  "SongTitle": "Havana",
+  "AlbumTitle": "Collins Ways",
+  "Genre": "Reggae",
+  "Price": "8.99",
+  "CriticRating": "9.88"
+ },
+ {
+  "Artist": "Sam Smith",
+  "SongTitle": "Too Good At Goodbyes",
+  "AlbumTitle": "Hayes Plain",
+  "Genre": "Folk",
+  "Price": "13.89",
+  "CriticRating": "9.87"
+ },
+ {
+  "Artist": "Post Malone",
+  "SongTitle": "I Fall Apart",
+  "AlbumTitle": "Rachel Creek",
+  "Genre": "Pop",
+  "Price": "19.89",
+  "CriticRating": "9.86"
+ },
+ {
+  "Artist": "21 Savage",
+  "SongTitle": "Bank Account",
+  "AlbumTitle": "Christopher Freeway",
+  "Genre": "Classical",
+  "Price": "8.99",
+  "CriticRating": "9.85"
+ },
+ {
+  "Artist": "Logic",
+  "SongTitle": "1-800-273-8255",
+  "AlbumTitle": "Ashlee Avenue",
+  "Genre": "Reggae",
+  "Price": "5.89",
+  "CriticRating": "9.84"
+ },
+ {
+  "Artist": "Cardi B",
+  "SongTitle": "Bodak Yellow",
+  "AlbumTitle": "Bruce Walks",
+  "Genre": "Reggae",
+  "Price": "19.99",
+  "CriticRating": "9.83"
+ },
+ {
+  "Artist": "21 Savage",
+  "SongTitle": "Ghostface Killers",
+  "AlbumTitle": "Joseph Hill",
+  "Genre": "Country",
+  "Price": "0.99",
+  "CriticRating": "9.82"
+ },
+ {
+  "Artist": "Lil Uzi Vert",
+  "SongTitle": "XO TOUR Llif3",
+  "AlbumTitle": "Raymond Curve",
+  "Genre": "Pop",
+  "Price": "12.99",
+  "CriticRating": "9.81"
+ },
+ {
+  "Artist": "Khalid",
+  "SongTitle": "Young Dumb & Broke",
+  "AlbumTitle": "Andersen Junctions",
+  "Genre": "RNB",
+  "Price": "19.89",
+  "CriticRating": "9.8"
+ },
+ {
+  "Artist": "Maroon 5",
+  "SongTitle": "What Lovers Do (feat. SZA)",
+  "AlbumTitle": "Melissa Islands",
+  "Genre": "Folk",
+  "Price": "1.89",
+  "CriticRating": "9.79"
+ },
+ {
+  "Artist": "Migos",
+  "SongTitle": "MotorSport",
+  "AlbumTitle": "Hammond Drive",
+  "Genre": "Country",
+  "Price": "17.89",
+  "CriticRating": "9.78"
+ },
+ {
+  "Artist": "G-Eazy",
+  "SongTitle": "No Limit",
+  "AlbumTitle": "Obrien View",
+  "Genre": "Classical",
+  "Price": "19.89",
+  "CriticRating": "9.77"
+ },
+ {
+  "Artist": "Gucci Mane",
+  "SongTitle": "I Get The Bag (feat. Migos)",
+  "AlbumTitle": "Johnny Trafficway",
+  "Genre": "Classical",
+  "Price": "9.89",
+  "CriticRating": "9.76"
+ },
+ {
+  "Artist": "Selena Gomez",
+  "SongTitle": "Wolves",
+  "AlbumTitle": "Kyle Streets",
+  "Genre": "Reggae",
+  "Price": "16.99",
+  "CriticRating": "9.75"
+ },
+ {
+  "Artist": "Post Malone",
+  "SongTitle": "Congratulations",
+  "AlbumTitle": "Williams Valley",
+  "Genre": "Reggae",
+  "Price": "5.99",
+  "CriticRating": "9.74"
+ },
+ {
+  "Artist": "Dua Lipa",
+  "SongTitle": "New Rules",
+  "AlbumTitle": "Davis Junction",
+  "Genre": "Rock",
+  "Price": "12.99",
+  "CriticRating": "9.73"
+ },
+ {
+  "Artist": "A$AP Ferg",
+  "SongTitle": "Plain Jane",
+  "AlbumTitle": "Meza Gateway",
+  "Genre": "Classical",
+  "Price": "9.99",
+  "CriticRating": "9.72"
+ },
+ {
+  "Artist": "Demi Lovato",
+  "SongTitle": "Sorry Not Sorry",
+  "AlbumTitle": "Steven Islands",
+  "Genre": "Country",
+  "Price": "12.99",
+  "CriticRating": "9.71"
+ },
+ {
+  "Artist": "Marshmello",
+  "SongTitle": "Silence",
+  "AlbumTitle": "Moody Wall",
+  "Genre": "Folk",
+  "Price": "11.89",
+  "CriticRating": "9.7"
+ },
+ {
+  "Artist": "NF",
+  "SongTitle": "Let You Down",
+  "AlbumTitle": "Scott Isle",
+  "Genre": "Pop",
+  "Price": "17.99",
+  "CriticRating": "9.69"
+ },
+ {
+  "Artist": "Ed Sheeran",
+  "SongTitle": "Perfect",
+  "AlbumTitle": "Brenda Burg",
+  "Genre": "Pop",
+  "Price": "14.99",
+  "CriticRating": "9.68"
+ },
+ {
+  "Artist": "Offset",
+  "SongTitle": "Ric Flair Drip",
+  "AlbumTitle": "Jacob Circles",
+  "Genre": "Rock",
+  "Price": "18.99",
+  "CriticRating": "9.67"
+ },
+ {
+  "Artist": "Post Malone",
+  "SongTitle": "Candy Paint",
+  "AlbumTitle": "Walker Pass",
+  "Genre": "Classical",
+  "Price": "10.99",
+  "CriticRating": "9.66"
+ },
+ {
+  "Artist": "Lil Uzi Vert",
+  "SongTitle": "The Way Life Goes (feat. Oh Wonder)",
+  "AlbumTitle": "Wilson Shoals",
+  "Genre": "Reggae",
+  "Price": "12.99",
+  "CriticRating": "9.65"
+ },
+ {
+  "Artist": "Kendrick Lamar",
+  "SongTitle": "HUMBLE.",
+  "AlbumTitle": "Rachel Manor",
+  "Genre": "Rock",
+  "Price": "11.99",
+  "CriticRating": "9.64"
+ },
+ {
+  "Artist": "Portugal. The Man",
+  "SongTitle": "Feel It Still",
+  "AlbumTitle": "Tyler Turnpike",
+  "Genre": "Folk",
+  "Price": "17.89",
+  "CriticRating": "9.63"
+ },
+ {
+  "Artist": "French Montana",
+  "SongTitle": "Unforgettable",
+  "AlbumTitle": "Kimberly Trail",
+  "Genre": "Jazz",
+  "Price": "12.89",
+  "CriticRating": "9.62"
+ },
+ {
+  "Artist": "Travis Scott",
+  "SongTitle": "Butterfly Effect",
+  "AlbumTitle": "Flores Extension",
+  "Genre": "Folk",
+  "Price": "8.99",
+  "CriticRating": "9.61"
+ },
+ {
+  "Artist": "Halsey",
+  "SongTitle": "Bad At Love",
+  "AlbumTitle": "Katherine Unions",
+  "Genre": "Pop",
+  "Price": "15.99",
+  "CriticRating": "9.6"
+ },
+ {
+  "Artist": "XXXTENTACION",
+  "SongTitle": "Jocelyn Flores",
+  "AlbumTitle": "Thomas Orchard",
+  "Genre": "Country",
+  "Price": "15.99",
+  "CriticRating": "9.59"
+ },
+ {
+  "Artist": "Hailee Steinfeld",
+  "SongTitle": "\"Let Me Go (with Alesso",
+  "AlbumTitle": " Florida Georgia Line & watt)\"",
+  "Genre": "Taylor Summit",
+  "Price": "Reggae",
+  "CriticRating": "12.89"
+ },
+ {
+  "Artist": "Taylor Swift",
+  "SongTitle": "Call It What You Want",
+  "AlbumTitle": "Henson Turnpike",
+  "Genre": "RNB",
+  "Price": "11.99",
+  "CriticRating": "9.57"
+ },
+ {
+  "Artist": "Travis Scott",
+  "SongTitle": "goosebumps",
+  "AlbumTitle": "Johnathan Stream",
+  "Genre": "Folk",
+  "Price": "1.99",
+  "CriticRating": "9.56"
+ },
+ {
+  "Artist": "Sam Smith",
+  "SongTitle": "Pray",
+  "AlbumTitle": "Espinoza Fall",
+  "Genre": "Jazz",
+  "Price": "6.89",
+  "CriticRating": "9.55"
+ },
+ {
+  "Artist": "Kodak Black",
+  "SongTitle": "Roll In Peace (feat. XXXTENTACION)",
+  "AlbumTitle": "Cruz Roads",
+  "Genre": "Jazz",
+  "Price": "5.99",
+  "CriticRating": "9.54"
+ },
+ {
+  "Artist": "Yo Gotti",
+  "SongTitle": "Rake It Up",
+  "AlbumTitle": "Fox Crescent",
+  "Genre": "Folk",
+  "Price": "1.99",
+  "CriticRating": "9.53"
+ },
+ {
+  "Artist": "Bebe Rexha",
+  "SongTitle": "Meant to Be (feat. Florida Georgia Line)",
+  "AlbumTitle": "Love Drive",
+  "Genre": "Reggae",
+  "Price": "14.89",
+  "CriticRating": "9.52"
+ },
+ {
+  "Artist": "Migos",
+  "SongTitle": "Slippery (feat. Gucci Mane)",
+  "AlbumTitle": "Ross Wall",
+  "Genre": "Folk",
+  "Price": "1.99",
+  "CriticRating": "9.51"
+ },
+ {
+  "Artist": "Khalid",
+  "SongTitle": "Location",
+  "AlbumTitle": "Nichols Meadows",
+  "Genre": "Folk",
+  "Price": "12.99",
+  "CriticRating": "9.5"
+ },
+ {
+  "Artist": "A Boogie Wit da Hoodie",
+  "SongTitle": "Drowning (feat. Kodak Black)",
+  "AlbumTitle": "Kent Mountain",
+  "Genre": "Jazz",
+  "Price": "9.89",
+  "CriticRating": "9.49"
+ },
+ {
+  "Artist": "Charlie Puth",
+  "SongTitle": "How Long",
+  "AlbumTitle": "Morrison Forks",
+  "Genre": "Country",
+  "Price": "16.89",
+  "CriticRating": "9.48"
+ },
+ {
+  "Artist": "Imagine Dragons",
+  "SongTitle": "Thunder",
+  "AlbumTitle": "Ayers Way",
+  "Genre": "Reggae",
+  "Price": "3.89",
+  "CriticRating": "9.47"
+ },
+ {
+  "Artist": "XXXTENTACION",
+  "SongTitle": "Fuck Love (feat. Trippie Redd)",
+  "AlbumTitle": "Anthony Ways",
+  "Genre": "Rock",
+  "Price": "16.99",
+  "CriticRating": "9.46"
+ },
+ {
+  "Artist": "ZAYN",
+  "SongTitle": "Dusk Till Dawn - Radio Edit",
+  "AlbumTitle": "Christopher Lake",
+  "Genre": "Folk",
+  "Price": "8.89",
+  "CriticRating": "9.45"
+ },
+ {
+  "Artist": "Post Malone",
+  "SongTitle": "Go Flex",
+  "AlbumTitle": "Christine Plain",
+  "Genre": "Jazz",
+  "Price": "8.89",
+  "CriticRating": "9.44"
+ },
+ {
+  "Artist": "Tay-K",
+  "SongTitle": "The Race",
+  "AlbumTitle": "Joseph Spurs",
+  "Genre": "Folk",
+  "Price": "18.89",
+  "CriticRating": "9.43"
+ },
+ {
+  "Artist": "21 Savage",
+  "SongTitle": "Rap Saved Me",
+  "AlbumTitle": "Bullock Mountains",
+  "Genre": "Classical",
+  "Price": "5.99",
+  "CriticRating": "9.42"
+ },
+ {
+  "Artist": "21 Savage",
+  "SongTitle": "My Choppa Hate Niggas",
+  "AlbumTitle": "Victoria Ridges",
+  "Genre": "Pop",
+  "Price": "2.89",
+  "CriticRating": "9.41"
+ },
+ {
+  "Artist": "Macklemore",
+  "SongTitle": "Glorious (feat. Skylar Grey)",
+  "AlbumTitle": "Wallace Stream",
+  "Genre": "Folk",
+  "Price": "13.89",
+  "CriticRating": "9.4"
+ },
+ {
+  "Artist": "Kendrick Lamar",
+  "SongTitle": "LOVE. FEAT. ZACARI.",
+  "AlbumTitle": "Diaz Highway",
+  "Genre": "Folk",
+  "Price": "10.99",
+  "CriticRating": "9.39"
+ },
+ {
+  "Artist": "Kygo",
+  "SongTitle": "Stargazing",
+  "AlbumTitle": "Peters Village",
+  "Genre": "Country",
+  "Price": "12.99",
+  "CriticRating": "9.38"
+ },
+ {
+  "Artist": "Lil Uzi Vert",
+  "SongTitle": "Sauce It Up",
+  "AlbumTitle": "Lowe Springs",
+  "Genre": "Classical",
+  "Price": "8.89",
+  "CriticRating": "9.37"
+ },
+ {
+  "Artist": "Imagine Dragons",
+  "SongTitle": "Believer",
+  "AlbumTitle": "Callahan Way",
+  "Genre": "Country",
+  "Price": "19.89",
+  "CriticRating": "9.36"
+ },
+ {
+  "Artist": "J Balvin",
+  "SongTitle": "Mi Gente",
+  "AlbumTitle": "Timothy Villages",
+  "Genre": "Country",
+  "Price": "14.89",
+  "CriticRating": "9.35"
+ },
+ {
+  "Artist": "Kodak Black",
+  "SongTitle": "Transportin'",
+  "AlbumTitle": "Robbins Meadows",
+  "Genre": "Reggae",
+  "Price": "13.89",
+  "CriticRating": "9.34"
+ },
+ {
+  "Artist": "Playboi Carti",
+  "SongTitle": "Magnolia",
+  "AlbumTitle": "Robert Prairie",
+  "Genre": "Folk",
+  "Price": "17.99",
+  "CriticRating": "9.33"
+ },
+ {
+  "Artist": "Taylor Swift",
+  "SongTitle": "Look What You Made Me Do",
+  "AlbumTitle": "Angela Loaf",
+  "Genre": "Classical",
+  "Price": "9.99",
+  "CriticRating": "9.32"
+ },
+ {
+  "Artist": "Kendrick Lamar",
+  "SongTitle": "DNA.",
+  "AlbumTitle": "Joshua Drive",
+  "Genre": "Jazz",
+  "Price": "8.99",
+  "CriticRating": "9.31"
+ },
+ {
+  "Artist": "SZA",
+  "SongTitle": "Love Galore",
+  "AlbumTitle": "Misty Keys",
+  "Genre": "Pop",
+  "Price": "2.99",
+  "CriticRating": "9.3"
+ },
+ {
+  "Artist": "Maroon 5",
+  "SongTitle": "Wait",
+  "AlbumTitle": "Rivers Fields",
+  "Genre": "Classical",
+  "Price": "1.99",
+  "CriticRating": "9.29"
+ },
+ {
+  "Artist": "Charlie Puth",
+  "SongTitle": "Attention",
+  "AlbumTitle": "Jason Club",
+  "Genre": "RNB",
+  "Price": "6.99",
+  "CriticRating": "9.28"
+ },
+ {
+  "Artist": "J Balvin",
+  "SongTitle": "Mi Gente (feat. Beyonc��)",
+  "AlbumTitle": "Hill Tunnel",
+  "Genre": "Pop",
+  "Price": "8.89",
+  "CriticRating": "9.27"
+ },
+ {
+  "Artist": "Future",
+  "SongTitle": "Mask Off",
+  "AlbumTitle": "Brown Via",
+  "Genre": "Jazz",
+  "Price": "12.89",
+  "CriticRating": "9.26"
+ },
+ {
+  "Artist": "Lorde",
+  "SongTitle": "\"Homemade Dynamite (Feat. Khalid",
+  "AlbumTitle": " Post Malone & SZA) - REMIX\"",
+  "Genre": "Nancy Terrace",
+  "Price": "Jazz",
+  "CriticRating": "4.89"
+ },
+ {
+  "Artist": "Young Thug",
+  "SongTitle": "Relationship (feat. Future)",
+  "AlbumTitle": "Amy Landing",
+  "Genre": "Reggae",
+  "Price": "5.99",
+  "CriticRating": "9.24"
+ },
+ {
+  "Artist": "Childish Gambino",
+  "SongTitle": "Redbone",
+  "AlbumTitle": "Jillian Courts",
+  "Genre": "Rock",
+  "Price": "11.99",
+  "CriticRating": "9.23"
+ },
+ {
+  "Artist": "Post Malone",
+  "SongTitle": "White Iverson",
+  "AlbumTitle": "Jacob Creek",
+  "Genre": "Rock",
+  "Price": "2.89",
+  "CriticRating": "9.22"
+ },
+ {
+  "Artist": "Sam Smith",
+  "SongTitle": "Burning",
+  "AlbumTitle": "Hoover Brooks",
+  "Genre": "Reggae",
+  "Price": "16.89",
+  "CriticRating": "9.21"
+ },
+ {
+  "Artist": "2 Chainz",
+  "SongTitle": "It's A Vibe",
+  "AlbumTitle": "Soto Lane",
+  "Genre": "Pop",
+  "Price": "9.99",
+  "CriticRating": "9.2"
+ },
+ {
+  "Artist": "Ed Sheeran",
+  "SongTitle": "Shape of You",
+  "AlbumTitle": "Victor Divide",
+  "Genre": "RNB",
+  "Price": "14.99",
+  "CriticRating": "9.19"
+ },
+ {
+  "Artist": "Luis Fonsi",
+  "SongTitle": "Despacito - Remix",
+  "AlbumTitle": "Nicholas Route",
+  "Genre": "Jazz",
+  "Price": "16.99",
+  "CriticRating": "9.18"
+ },
+ {
+  "Artist": "Sam Hunt",
+  "SongTitle": "Body Like A Back Road",
+  "AlbumTitle": "Roberts Ridge",
+  "Genre": "Reggae",
+  "Price": "13.89",
+  "CriticRating": "9.17"
+ },
+ {
+  "Artist": "Chris Brown",
+  "SongTitle": "Pills & Automobiles",
+  "AlbumTitle": "Long Camp",
+  "Genre": "RNB",
+  "Price": "9.89",
+  "CriticRating": "9.16"
+ },
+ {
+  "Artist": "Chris Brown",
+  "SongTitle": "Questions",
+  "AlbumTitle": "Cynthia Locks",
+  "Genre": "Jazz",
+  "Price": "6.99",
+  "CriticRating": "9.15"
+ },
+ {
+  "Artist": "Big Sean",
+  "SongTitle": "Pull Up N Wreck (With Metro Boomin)",
+  "AlbumTitle": "Sarah Springs",
+  "Genre": "Classical",
+  "Price": "13.99",
+  "CriticRating": "9.14"
+ },
+ {
+  "Artist": "Lil Xan",
+  "SongTitle": "Betrayed",
+  "AlbumTitle": "Baker Grove",
+  "Genre": "Classical",
+  "Price": "14.89",
+  "CriticRating": "9.13"
+ },
+ {
+  "Artist": "Playboi Carti",
+  "SongTitle": "wokeuplikethis*",
+  "AlbumTitle": "Logan Station",
+  "Genre": "Classical",
+  "Price": "7.99",
+  "CriticRating": "9.12"
+ },
+ {
+  "Artist": "Russ",
+  "SongTitle": "Losin Control",
+  "AlbumTitle": "Simmons Estates",
+  "Genre": "Rock",
+  "Price": "7.89",
+  "CriticRating": "9.11"
+ },
+ {
+  "Artist": "N.E.R.D",
+  "SongTitle": "Lemon",
+  "AlbumTitle": "Walker Villages",
+  "Genre": "Classical",
+  "Price": "15.89",
+  "CriticRating": "9.1"
+ },
+ {
+  "Artist": "YBN Nahmir",
+  "SongTitle": "Rubbin Off The Paint",
+  "AlbumTitle": "Hernandez Hills",
+  "Genre": "Country",
+  "Price": "14.99",
+  "CriticRating": "9.09"
+ },
+ {
+  "Artist": "blackbear",
+  "SongTitle": "do re mi (feat. Gucci Mane)",
+  "AlbumTitle": "Caitlin Streets",
+  "Genre": "Country",
+  "Price": "4.89",
+  "CriticRating": "9.08"
+ },
+ {
+  "Artist": "Clean Bandit",
+  "SongTitle": "I Miss You (feat. Julia Michaels)",
+  "AlbumTitle": "Natalie Green",
+  "Genre": "Reggae",
+  "Price": "8.99",
+  "CriticRating": "9.07"
+ },
+ {
+  "Artist": "21 Savage",
+  "SongTitle": "Disrespectful",
+  "AlbumTitle": "Potter Causeway",
+  "Genre": "Pop",
+  "Price": "0.89",
+  "CriticRating": "9.06"
+ },
+ {
+  "Artist": "Taylor Swift",
+  "SongTitle": "...Ready For It?",
+  "AlbumTitle": "Kelly Course",
+  "Genre": "Country",
+  "Price": "17.99",
+  "CriticRating": "9.05"
+ },
+ {
+  "Artist": "Sam Smith",
+  "SongTitle": "Say It First",
+  "AlbumTitle": "Chelsea Estates",
+  "Genre": "Country",
+  "Price": "14.99",
+  "CriticRating": "9.04"
+ },
+ {
+  "Artist": "Niall Horan",
+  "SongTitle": "Slow Hands",
+  "AlbumTitle": "Robinson Forge",
+  "Genre": "Rock",
+  "Price": "12.99",
+  "CriticRating": "9.03"
+ },
+ {
+  "Artist": "Liam Payne",
+  "SongTitle": "Strip That Down",
+  "AlbumTitle": "Michael Gardens",
+  "Genre": "Rock",
+  "Price": "9.89",
+  "CriticRating": "9.02"
+ },
+ {
+  "Artist": "Macklemore",
+  "SongTitle": "Good Old Days (feat. Kesha)",
+  "AlbumTitle": "Felicia Coves",
+  "Genre": "Folk",
+  "Price": "7.99",
+  "CriticRating": "9.01"
+ },
+ {
+  "Artist": "XXXTENTACION",
+  "SongTitle": "Everybody Dies In Their Nightmares",
+  "AlbumTitle": "Hardin Pines",
+  "Genre": "Country",
+  "Price": "8.99",
+  "CriticRating": "9"
+ },
+ {
+  "Artist": "DJ Khaled",
+  "SongTitle": "I'm the One",
+  "AlbumTitle": "Jordan Parkway",
+  "Genre": "Folk",
+  "Price": "5.89",
+  "CriticRating": "8.99"
+ },
+ {
+  "Artist": "Taylor Swift",
+  "SongTitle": "Gorgeous",
+  "AlbumTitle": "Baird Groves",
+  "Genre": "Folk",
+  "Price": "2.99",
+  "CriticRating": "8.98"
+ },
+ {
+  "Artist": "Cheat Codes",
+  "SongTitle": "Feels Great (feat. Fetty Wap & CVBZ)",
+  "AlbumTitle": "Vanessa Heights",
+  "Genre": "Pop",
+  "Price": "3.89",
+  "CriticRating": "8.97"
+ },
+ {
+  "Artist": "Lil Uzi Vert",
+  "SongTitle": "The Way Life Goes (feat. Nicki Minaj & Oh Wonder) - Remix",
+  "AlbumTitle": "Michael Way",
+  "Genre": "RNB",
+  "Price": "5.89",
+  "CriticRating": "8.96"
+ },
+ {
+  "Artist": "KYLE",
+  "SongTitle": "iSpy (feat. Lil Yachty)",
+  "AlbumTitle": "Olson Lodge",
+  "Genre": "RNB",
+  "Price": "15.99",
+  "CriticRating": "8.95"
+ },
+ {
+  "Artist": "Future",
+  "SongTitle": "Patek Water",
+  "AlbumTitle": "Ellis Mountain",
+  "Genre": "Jazz",
+  "Price": "17.89",
+  "CriticRating": "8.94"
+ },
+ {
+  "Artist": "DJ Khaled",
+  "SongTitle": "Wild Thoughts",
+  "AlbumTitle": "Robert Flat",
+  "Genre": "RNB",
+  "Price": "2.99",
+  "CriticRating": "8.93"
+ },
+ {
+  "Artist": "Sam Smith",
+  "SongTitle": "One Last Song",
+  "AlbumTitle": "David Squares",
+  "Genre": "Reggae",
+  "Price": "15.89",
+  "CriticRating": "8.92"
+ },
+ {
+  "Artist": "Migos",
+  "SongTitle": "Bad and Boujee (feat. Lil Uzi Vert)",
+  "AlbumTitle": "Sandra Corners",
+  "Genre": "Pop",
+  "Price": "14.99",
+  "CriticRating": "8.91"
+ },
+ {
+  "Artist": "Sam Smith",
+  "SongTitle": "Nothing Left For You",
+  "AlbumTitle": "Brown Square",
+  "Genre": "Country",
+  "Price": "8.89",
+  "CriticRating": "8.9"
+ },
+ {
+  "Artist": "Rich The Kid",
+  "SongTitle": "New Freezer (feat. Kendrick Lamar)",
+  "AlbumTitle": "Selena Vista",
+  "Genre": "Country",
+  "Price": "8.89",
+  "CriticRating": "8.89"
+ },
+ {
+  "Artist": "Kane Brown",
+  "SongTitle": "What Ifs",
+  "AlbumTitle": "Hahn Branch",
+  "Genre": "Pop",
+  "Price": "18.99",
+  "CriticRating": "8.88"
+ },
+ {
+  "Artist": "Big Sean",
+  "SongTitle": "Bounce Back",
+  "AlbumTitle": "Velasquez Brooks",
+  "Genre": "Country",
+  "Price": "14.89",
+  "CriticRating": "8.87"
+ },
+ {
+  "Artist": "Kodak Black",
+  "SongTitle": "Tunnel Vision",
+  "AlbumTitle": "Susan Manors",
+  "Genre": "Jazz",
+  "Price": "2.89",
+  "CriticRating": "8.86"
+ },
+ {
+  "Artist": "Offset",
+  "SongTitle": "Nightmare",
+  "AlbumTitle": "Ortiz Forks",
+  "Genre": "Country",
+  "Price": "18.99",
+  "CriticRating": "8.85"
+ },
+ {
+  "Artist": "James Arthur",
+  "SongTitle": "Say You Won't Let Go",
+  "AlbumTitle": "Kelli Lodge",
+  "Genre": "Country",
+  "Price": "13.99",
+  "CriticRating": "8.84"
+ },
+ {
+  "Artist": "Avicii",
+  "SongTitle": "Lonely Together (feat. Rita Ora)",
+  "AlbumTitle": "Adam Manor",
+  "Genre": "Pop",
+  "Price": "5.89",
+  "CriticRating": "8.83"
+ },
+ {
+  "Artist": "Kesha",
+  "SongTitle": "Praying",
+  "AlbumTitle": "Robert Burgs",
+  "Genre": "RNB",
+  "Price": "16.99",
+  "CriticRating": "8.82"
+ },
+ {
+  "Artist": "Kendrick Lamar",
+  "SongTitle": "LOYALTY. FEAT. RIHANNA.",
+  "AlbumTitle": "Joshua Roads",
+  "Genre": "Classical",
+  "Price": "9.99",
+  "CriticRating": "8.81"
+ },
+ {
+  "Artist": "Bruno Mars",
+  "SongTitle": "That's What I Like",
+  "AlbumTitle": "Ellen Unions",
+  "Genre": "Jazz",
+  "Price": "18.89",
+  "CriticRating": "8.8"
+ },
+ {
+  "Artist": "P!nk",
+  "SongTitle": "What About Us",
+  "AlbumTitle": "Bell Mission",
+  "Genre": "Pop",
+  "Price": "11.99",
+  "CriticRating": "8.79"
+ },
+ {
+  "Artist": "Miguel",
+  "SongTitle": "Sky Walker",
+  "AlbumTitle": "Stanley Locks",
+  "Genre": "Classical",
+  "Price": "17.99",
+  "CriticRating": "8.78"
+ },
+ {
+  "Artist": "21 Savage",
+  "SongTitle": "Mad Stalkers",
+  "AlbumTitle": "Henry Bridge",
+  "Genre": "Jazz",
+  "Price": "18.89",
+  "CriticRating": "8.77"
+ },
+ {
+  "Artist": "Sam Smith",
+  "SongTitle": "Midnight Train",
+  "AlbumTitle": "Aaron Haven",
+  "Genre": "Reggae",
+  "Price": "4.99",
+  "CriticRating": "8.76"
+ },
+ {
+  "Artist": "Daya",
+  "SongTitle": "New",
+  "AlbumTitle": "Gina Trafficway",
+  "Genre": "Pop",
+  "Price": "3.89",
+  "CriticRating": "8.75"
+ },
+ {
+  "Artist": "Niall Horan",
+  "SongTitle": "Too Much To Ask",
+  "AlbumTitle": "Duran Row",
+  "Genre": "Classical",
+  "Price": "0.89",
+  "CriticRating": "8.74"
+ },
+ {
+  "Artist": "XXXTENTACION",
+  "SongTitle": "Look At Me!",
+  "AlbumTitle": "Madison Freeway",
+  "Genre": "Pop",
+  "Price": "0.99",
+  "CriticRating": "8.73"
+ },
+ {
+  "Artist": "Migos",
+  "SongTitle": "T-Shirt",
+  "AlbumTitle": "Johnston Drive",
+  "Genre": "Jazz",
+  "Price": "6.99",
+  "CriticRating": "8.72"
+ },
+ {
+  "Artist": "Sam Smith",
+  "SongTitle": "HIM",
+  "AlbumTitle": "James Mews",
+  "Genre": "Jazz",
+  "Price": "0.99",
+  "CriticRating": "8.71"
+ },
+ {
+  "Artist": "Rae Sremmurd",
+  "SongTitle": "Perplexing Pegasus",
+  "AlbumTitle": "Tammy Station",
+  "Genre": "Reggae",
+  "Price": "3.99",
+  "CriticRating": "8.7"
+ },
+ {
+  "Artist": "Sam Smith",
+  "SongTitle": "No Peace",
+  "AlbumTitle": "Andrew Squares",
+  "Genre": "Jazz",
+  "Price": "0.89",
+  "CriticRating": "8.69"
+ },
+ {
+  "Artist": "Lil Pump",
+  "SongTitle": "Boss",
+  "AlbumTitle": "Ashley Plain",
+  "Genre": "Country",
+  "Price": "8.89",
+  "CriticRating": "8.68"
+ },
+ {
+  "Artist": "Thomas Rhett",
+  "SongTitle": "Unforgettable",
+  "AlbumTitle": "Kimberly Club",
+  "Genre": "Country",
+  "Price": "8.89",
+  "CriticRating": "8.67"
+ },
+ {
+  "Artist": "Lauv",
+  "SongTitle": "I Like Me Better",
+  "AlbumTitle": "White Brooks",
+  "Genre": "Folk",
+  "Price": "7.89",
+  "CriticRating": "8.66"
+ },
+ {
+  "Artist": "Shawn Mendes",
+  "SongTitle": "There's Nothing Holdin' Me Back",
+  "AlbumTitle": "Long Place",
+  "Genre": "Reggae",
+  "Price": "5.99",
+  "CriticRating": "8.65"
+ },
+ {
+  "Artist": "Sam Smith",
+  "SongTitle": "\"Baby",
+  "AlbumTitle": " You Make Me Crazy\"",
+  "Genre": "Powell Stream",
+  "Price": "Folk",
+  "CriticRating": "1.89"
+ },
+ {
+  "Artist": "Travis Scott",
+  "SongTitle": "beibs in the trap",
+  "AlbumTitle": "Sarah Place",
+  "Genre": "Classical",
+  "Price": "1.99",
+  "CriticRating": "8.63"
+ },
+ {
+  "Artist": "Drake",
+  "SongTitle": "Passionfruit",
+  "AlbumTitle": "Kelly Cliff",
+  "Genre": "Pop",
+  "Price": "7.99",
+  "CriticRating": "8.62"
+ },
+ {
+  "Artist": "SZA",
+  "SongTitle": "The Weekend",
+  "AlbumTitle": "Yates Terrace",
+  "Genre": "Jazz",
+  "Price": "15.89",
+  "CriticRating": "8.61"
+ },
+ {
+  "Artist": "21 Savage",
+  "SongTitle": "X (feat. Future)",
+  "AlbumTitle": "Cathy Views",
+  "Genre": "Country",
+  "Price": "13.99",
+  "CriticRating": "8.6"
+ },
+ {
+  "Artist": "Liam Payne",
+  "SongTitle": "Bedroom Floor",
+  "AlbumTitle": "Alejandro Spurs",
+  "Genre": "RNB",
+  "Price": "6.89",
+  "CriticRating": "8.59"
+ },
+ {
+  "Artist": "blackbear",
+  "SongTitle": "do re mi",
+  "AlbumTitle": "John Courts",
+  "Genre": "Classical",
+  "Price": "13.89",
+  "CriticRating": "8.58"
+ },
+ {
+  "Artist": "J. Cole",
+  "SongTitle": "No Role Modelz",
+  "AlbumTitle": "Wright Motorway",
+  "Genre": "Pop",
+  "Price": "8.89",
+  "CriticRating": "8.57"
+ },
+ {
+  "Artist": "Justin Bieber",
+  "SongTitle": "Friends (with BloodPop��)",
+  "AlbumTitle": "Jill Underpass",
+  "Genre": "Jazz",
+  "Price": "4.89",
+  "CriticRating": "8.56"
+ },
+ {
+  "Artist": "Rae Sremmurd",
+  "SongTitle": "Swang",
+  "AlbumTitle": "Joseph Streets",
+  "Genre": "RNB",
+  "Price": "1.99",
+  "CriticRating": "8.55"
+ },
+ {
+  "Artist": "DJ Snake",
+  "SongTitle": "A Different Way (with Lauv)",
+  "AlbumTitle": "Mitchell Forges",
+  "Genre": "Folk",
+  "Price": "10.89",
+  "CriticRating": "8.54"
+ },
+ {
+  "Artist": "Gucci Mane",
+  "SongTitle": "Curve (feat. The Weeknd)",
+  "AlbumTitle": "Hayes Plaza",
+  "Genre": "Jazz",
+  "Price": "6.89",
+  "CriticRating": "8.53"
+ },
+ {
+  "Artist": "GoldLink",
+  "SongTitle": "Crew",
+  "AlbumTitle": "Ryan Crossroad",
+  "Genre": "Folk",
+  "Price": "8.99",
+  "CriticRating": "8.52"
+ },
+ {
+  "Artist": "Famous Dex",
+  "SongTitle": "Pick It Up (feat. A$AP Rocky)",
+  "AlbumTitle": "Thomas Glens",
+  "Genre": "Rock",
+  "Price": "16.99",
+  "CriticRating": "8.51"
+ },
+ {
+  "Artist": "Amin��",
+  "SongTitle": "Caroline",
+  "AlbumTitle": "Wilson Ridges",
+  "Genre": "Country",
+  "Price": "14.89",
+  "CriticRating": "8.5"
+ },
+ {
+  "Artist": "DRAM",
+  "SongTitle": "Broccoli (feat. Lil Yachty)",
+  "AlbumTitle": "Robert Summit",
+  "Genre": "RNB",
+  "Price": "10.89",
+  "CriticRating": "8.49"
+ },
+ {
+  "Artist": "The Weeknd",
+  "SongTitle": "Starboy",
+  "AlbumTitle": "Kelli Springs",
+  "Genre": "Rock",
+  "Price": "19.99",
+  "CriticRating": "8.48"
+ },
+ {
+  "Artist": "Drake",
+  "SongTitle": "Portland",
+  "AlbumTitle": "Patrick Pines",
+  "Genre": "Classical",
+  "Price": "10.99",
+  "CriticRating": "8.47"
+ },
+ {
+  "Artist": "The Chainsmokers",
+  "SongTitle": "Closer",
+  "AlbumTitle": "Hernandez Pines",
+  "Genre": "Folk",
+  "Price": "2.99",
+  "CriticRating": "8.46"
+ },
+ {
+  "Artist": "Halsey",
+  "SongTitle": "Now Or Never",
+  "AlbumTitle": "Young Landing",
+  "Genre": "RNB",
+  "Price": "6.89",
+  "CriticRating": "8.45"
+ },
+ {
+  "Artist": "Tee Grizzley",
+  "SongTitle": "First Day Out",
+  "AlbumTitle": "Garcia Row",
+  "Genre": "Reggae",
+  "Price": "19.89",
+  "CriticRating": "8.44"
+ },
+ {
+  "Artist": "2 Chainz",
+  "SongTitle": "4:00 AM",
+  "AlbumTitle": "Edward Ranch",
+  "Genre": "Jazz",
+  "Price": "2.89",
+  "CriticRating": "8.43"
+ },
+ {
+  "Artist": "Lil Uzi Vert",
+  "SongTitle": "Money Longer",
+  "AlbumTitle": "Matthew Locks",
+  "Genre": "RNB",
+  "Price": "19.89",
+  "CriticRating": "8.42"
+ },
+ {
+  "Artist": "Lil Pump",
+  "SongTitle": "D Rose",
+  "AlbumTitle": "Derek Fall",
+  "Genre": "Classical",
+  "Price": "0.89",
+  "CriticRating": "8.41"
+ },
+ {
+  "Artist": "The Chainsmokers",
+  "SongTitle": "Something Just Like This",
+  "AlbumTitle": "Orr Harbors",
+  "Genre": "Jazz",
+  "Price": "11.89",
+  "CriticRating": "8.4"
+ },
+ {
+  "Artist": "Sam Smith",
+  "SongTitle": "Palace",
+  "AlbumTitle": "Sydney Spur",
+  "Genre": "Rock",
+  "Price": "16.89",
+  "CriticRating": "8.39"
+ },
+ {
+  "Artist": "Drake",
+  "SongTitle": "Fake Love",
+  "AlbumTitle": "Cherry Junctions",
+  "Genre": "Country",
+  "Price": "10.99",
+  "CriticRating": "8.38"
+ },
+ {
+  "Artist": "Post Malone",
+  "SongTitle": "No Option",
+  "AlbumTitle": "Luke Knolls",
+  "Genre": "Jazz",
+  "Price": "16.99",
+  "CriticRating": "8.37"
+ },
+ {
+  "Artist": "Sam Smith",
+  "SongTitle": "The Thrill Of It All",
+  "AlbumTitle": "Kelly Dam",
+  "Genre": "Pop",
+  "Price": "4.89",
+  "CriticRating": "8.36"
+ },
+ {
+  "Artist": "6LACK",
+  "SongTitle": "PRBLMS",
+  "AlbumTitle": "Shaw Pine",
+  "Genre": "RNB",
+  "Price": "8.89",
+  "CriticRating": "8.35"
+ },
+ {
+  "Artist": "Sam Smith",
+  "SongTitle": "Scars",
+  "AlbumTitle": "Brown Rapids",
+  "Genre": "Pop",
+  "Price": "6.89",
+  "CriticRating": "8.34"
+ },
+ {
+  "Artist": "Luke Combs",
+  "SongTitle": "When It Rains It Pours",
+  "AlbumTitle": "Herrera Mountain",
+  "Genre": "RNB",
+  "Price": "2.89",
+  "CriticRating": "8.33"
+ },
+ {
+  "Artist": "ZAYN",
+  "SongTitle": "\"I Don't Wanna Live Forever (Fifty Shades Darker) - From \"\"Fifty Shades Darker (Original Motion Picture Soundtrack)\"\"\"",
+  "AlbumTitle": "Robinson Parkways",
+  "Genre": "Classical",
+  "Price": "6.89",
+  "CriticRating": "8.32"
+ },
+ {
+  "Artist": "Kygo",
+  "SongTitle": "Kids in Love",
+  "AlbumTitle": "Armstrong Inlet",
+  "Genre": "Jazz",
+  "Price": "17.99",
+  "CriticRating": "8.31"
+ },
+ {
+  "Artist": "A Boogie Wit da Hoodie",
+  "SongTitle": "Undefeated (feat. 21 Savage)",
+  "AlbumTitle": "Stephanie Villages",
+  "Genre": "Country",
+  "Price": "4.89",
+  "CriticRating": "8.3"
+ },
+ {
+  "Artist": "Future",
+  "SongTitle": "Feed Me Dope",
+  "AlbumTitle": "Morrison Meadows",
+  "Genre": "Reggae",
+  "Price": "9.89",
+  "CriticRating": "8.29"
+ },
+ {
+  "Artist": "Metro Boomin",
+  "SongTitle": "No Complaints",
+  "AlbumTitle": "Jade Meadow",
+  "Genre": "RNB",
+  "Price": "0.89",
+  "CriticRating": "8.28"
+ },
+ {
+  "Artist": "YFN Lucci",
+  "SongTitle": "Everyday We Lit (feat. PnB Rock)",
+  "AlbumTitle": "Daniel Courts",
+  "Genre": "Country",
+  "Price": "2.99",
+  "CriticRating": "8.27"
+ },
+ {
+  "Artist": "NAV",
+  "SongTitle": "Myself",
+  "AlbumTitle": "Stephanie Mountain",
+  "Genre": "Classical",
+  "Price": "2.89",
+  "CriticRating": "8.26"
+ },
+ {
+  "Artist": "Calvin Harris",
+  "SongTitle": "Feels",
+  "AlbumTitle": "James Point",
+  "Genre": "Country",
+  "Price": "13.99",
+  "CriticRating": "8.25"
+ },
+ {
+  "Artist": "Zedd",
+  "SongTitle": "Stay (with Alessia Cara)",
+  "AlbumTitle": "Mcdaniel Spring",
+  "Genre": "Rock",
+  "Price": "17.99",
+  "CriticRating": "8.24"
+ },
+ {
+  "Artist": "Chance The Rapper",
+  "SongTitle": "No Problem (feat. Lil Wayne & 2 Chainz)",
+  "AlbumTitle": "Ellis Mountains",
+  "Genre": "RNB",
+  "Price": "9.89",
+  "CriticRating": "8.23"
+ },
+ {
+  "Artist": "Russ",
+  "SongTitle": "What They Want",
+  "AlbumTitle": "Myers Manors",
+  "Genre": "Pop",
+  "Price": "2.89",
+  "CriticRating": "8.22"
+ },
+ {
+  "Artist": "Jon Pardi",
+  "SongTitle": "Heartache On The Dance Floor",
+  "AlbumTitle": "Kevin Harbor",
+  "Genre": "Classical",
+  "Price": "9.89",
+  "CriticRating": "8.21"
+ },
+ {
+  "Artist": "21 Savage",
+  "SongTitle": "Run Up the Racks",
+  "AlbumTitle": "Wheeler Hills",
+  "Genre": "Reggae",
+  "Price": "2.89",
+  "CriticRating": "8.2"
+ },
+ {
+  "Artist": "Bryson Tiller",
+  "SongTitle": "Don't",
+  "AlbumTitle": "Harrell Turnpike",
+  "Genre": "Jazz",
+  "Price": "11.89",
+  "CriticRating": "8.19"
+ },
+ {
+  "Artist": "A Boogie Wit da Hoodie",
+  "SongTitle": "Say A'",
+  "AlbumTitle": "Kevin Route",
+  "Genre": "Classical",
+  "Price": "6.89",
+  "CriticRating": "8.18"
+ },
+ {
+  "Artist": "CNCO",
+  "SongTitle": "Reggaet�_n Lento (Remix) [CNCO & Little Mix]",
+  "AlbumTitle": "Kaufman Pines",
+  "Genre": "Classical",
+  "Price": "2.99",
+  "CriticRating": "8.17"
+ },
+ {
+  "Artist": "Ayo & Teo",
+  "SongTitle": "Rolex",
+  "AlbumTitle": "Laurie Flats",
+  "Genre": "Jazz",
+  "Price": "9.99",
+  "CriticRating": "8.16"
+ },
+ {
+  "Artist": "Bryson Tiller",
+  "SongTitle": "Exchange",
+  "AlbumTitle": "Martinez Freeway",
+  "Genre": "Pop",
+  "Price": "7.89",
+  "CriticRating": "8.15"
+ },
+ {
+  "Artist": "6LACK",
+  "SongTitle": "Ex Calling",
+  "AlbumTitle": "Tara Plain",
+  "Genre": "Country",
+  "Price": "6.89",
+  "CriticRating": "8.14"
+ },
+ {
+  "Artist": "Julia Michaels",
+  "SongTitle": "Issues",
+  "AlbumTitle": "Wolf Branch",
+  "Genre": "Rock",
+  "Price": "1.89",
+  "CriticRating": "8.13"
+ },
+ {
+  "Artist": "Lil Pump",
+  "SongTitle": "Flex Like Ouu",
+  "AlbumTitle": "Shaw Road",
+  "Genre": "Pop",
+  "Price": "12.99",
+  "CriticRating": "8.12"
+ },
+ {
+  "Artist": "Gucci Mane",
+  "SongTitle": "Both (feat. Drake)",
+  "AlbumTitle": "Emily Summit",
+  "Genre": "Rock",
+  "Price": "1.99",
+  "CriticRating": "8.11"
+ },
+ {
+  "Artist": "Tee Grizzley",
+  "SongTitle": "From The D To The A (feat. Lil Yachty)",
+  "AlbumTitle": "Kimberly Lights",
+  "Genre": "RNB",
+  "Price": "8.89",
+  "CriticRating": "8.1"
+ },
+ {
+  "Artist": "Drake",
+  "SongTitle": "One Dance",
+  "AlbumTitle": "Gutierrez Motorway",
+  "Genre": "Jazz",
+  "Price": "8.99",
+  "CriticRating": "8.09"
+ },
+ {
+  "Artist": "21 Savage",
+  "SongTitle": "Still Serving",
+  "AlbumTitle": "Ryan Ridge",
+  "Genre": "Rock",
+  "Price": "18.89",
+  "CriticRating": "8.08"
+ },
+ {
+  "Artist": "Young Thug",
+  "SongTitle": "pick up the phone",
+  "AlbumTitle": "Lynch Green",
+  "Genre": "Reggae",
+  "Price": "17.99",
+  "CriticRating": "8.07"
+ },
+ {
+  "Artist": "Noah Cyrus",
+  "SongTitle": "Again",
+  "AlbumTitle": "Rodriguez Via",
+  "Genre": "Pop",
+  "Price": "15.89",
+  "CriticRating": "8.06"
+ },
+ {
+  "Artist": "Khalid",
+  "SongTitle": "8TEEN",
+  "AlbumTitle": "Davis Stream",
+  "Genre": "Country",
+  "Price": "0.99",
+  "CriticRating": "8.05"
+ },
+ {
+  "Artist": "Cheat Codes",
+  "SongTitle": "No Promises (feat. Demi Lovato)",
+  "AlbumTitle": "Charles Lock",
+  "Genre": "Reggae",
+  "Price": "9.89",
+  "CriticRating": "8.04"
+ },
+ {
+  "Artist": "Hailee Steinfeld",
+  "SongTitle": "Most Girls",
+  "AlbumTitle": "Owen Forest",
+  "Genre": "Folk",
+  "Price": "12.99",
+  "CriticRating": "8.03"
+ },
+ {
+  "Artist": "Trippie Redd",
+  "SongTitle": "Love Scars",
+  "AlbumTitle": "Ibarra Wall",
+  "Genre": "Country",
+  "Price": "0.99",
+  "CriticRating": "8.02"
+ },
+ {
+  "Artist": "Khalid",
+  "SongTitle": "Saved",
+  "AlbumTitle": "Kurt Pike",
+  "Genre": "RNB",
+  "Price": "10.99",
+  "CriticRating": "8.01"
+ },
+ {
+  "Artist": "PnB Rock",
+  "SongTitle": "\"Horses (with PnB Rock",
+  "AlbumTitle": " Kodak Black & A Boogie Wit da Hoodie)\"",
+  "Genre": "Carroll Mountains",
+  "Price": "Pop",
+  "CriticRating": "18.99"
+ },
+ {
+  "Artist": "Mariah Carey",
+  "SongTitle": "All I Want for Christmas Is You",
+  "AlbumTitle": "Heather Well",
+  "Genre": "RNB",
+  "Price": "17.99",
+  "CriticRating": "7.99"
+ },
+ {
+  "Artist": "Ozuna",
+  "SongTitle": "Se Prepar� ",
+  "AlbumTitle": "Rogers Divide",
+  "Genre": "Rock",
+  "Price": "0.99",
+  "CriticRating": "7.98"
+ },
+ {
+  "Artist": "Sam Smith",
+  "SongTitle": "One Day At A Time",
+  "AlbumTitle": "Daniel Mission",
+  "Genre": "Pop",
+  "Price": "13.99",
+  "CriticRating": "7.97"
+ },
+ {
+  "Artist": "Calvin Harris",
+  "SongTitle": "Slide",
+  "AlbumTitle": "Michael Village",
+  "Genre": "Classical",
+  "Price": "13.99",
+  "CriticRating": "7.96"
+ },
+ {
+  "Artist": "21 Savage",
+  "SongTitle": "Darth Vader",
+  "AlbumTitle": "Tyler Greens",
+  "Genre": "Jazz",
+  "Price": "3.89",
+  "CriticRating": "7.95"
+ },
+ {
+  "Artist": "Selena Gomez",
+  "SongTitle": "Fetish (feat. Gucci Mane)",
+  "AlbumTitle": "Christina Pass",
+  "Genre": "Reggae",
+  "Price": "7.99",
+  "CriticRating": "7.94"
+ },
+ {
+  "Artist": "Brett Young",
+  "SongTitle": "In Case You Didn't Know",
+  "AlbumTitle": "Gene Coves",
+  "Genre": "Rock",
+  "Price": "14.89",
+  "CriticRating": "7.93"
+ },
+ {
+  "Artist": "Sam Smith",
+  "SongTitle": "Stay With Me",
+  "AlbumTitle": "Garcia Skyway",
+  "Genre": "Pop",
+  "Price": "0.89",
+  "CriticRating": "7.92"
+ },
+ {
+  "Artist": "Kygo",
+  "SongTitle": "It Ain't Me (with Selena Gomez)",
+  "AlbumTitle": "Jennifer Motorway",
+  "Genre": "RNB",
+  "Price": "18.99",
+  "CriticRating": "7.91"
+ }
+]
